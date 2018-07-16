@@ -1,0 +1,340 @@
+# Logfile created on 2018-07-15 13:44:05 +0000 by logger.rb/56438
+[2018-07-15 13:44:05 +0000 sfg (17586)] INFO : Starting the New Relic agent version 4.2.0.334 in "production" environment.
+[2018-07-15 13:44:05 +0000 sfg (17586)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "production" section of your newrelic.yml.
+[2018-07-15 13:44:05 +0000 sfg (17586)] INFO : Reading configuration from config/newrelic.yml (/home/sharetribe)
+[2018-07-15 13:44:05 +0000 sfg (17586)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2018-07-15 13:44:05 +0000 sfg (17586)] INFO : Environment: production
+[2018-07-15 13:44:05 +0000 sfg (17586)] INFO : No known dispatcher detected.
+[2018-07-15 13:44:05 +0000 sfg (17586)] INFO : Application: Sharetribe
+[2018-07-15 13:44:05 +0000 sfg (17586)] INFO : NewRelic::Agent::Samplers::DelayedJobSampler not available: No DJ worker present. Skipping DJ queue sampler
+[2018-07-15 13:44:05 +0000 sfg (17586)] INFO : Installing Memcache instrumentation for dalli gem
+[2018-07-15 13:44:05 +0000 sfg (17586)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-07-15 13:44:05 +0000 sfg (17586)] INFO : Installing Redis Instrumentation
+[2018-07-15 13:44:05 +0000 sfg (17586)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-07-15 13:44:05 +0000 sfg (17586)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-07-15 13:44:05 +0000 sfg (17586)] INFO : Installing ActiveJob instrumentation
+[2018-07-15 13:44:05 +0000 sfg (17586)] INFO : Installing Net instrumentation
+[2018-07-15 13:44:05 +0000 sfg (17586)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-07-15 13:44:05 +0000 sfg (17586)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[2018-07-15 13:44:05 +0000 sfg (17586)] INFO : Installing Rails 5 Controller instrumentation
+[2018-07-15 13:44:05 +0000 sfg (17586)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-07-15 13:44:05 +0000 sfg (17586)] INFO : Installing Rails 5 view instrumentation
+[2018-07-15 13:44:05 +0000 sfg (17586)] INFO : Finished instrumentation
+[2018-07-15 13:44:06 +0000 sfg (17586)] INFO : Reporting to: https://rpm.newrelic.com/accounts/21154/applications/854556
+[2018-07-15 13:44:06 +0000 sfg (17586)] INFO : Starting Agent shutdown
+[2018-07-15 14:08:29 +0000 sfg (18873)] INFO : Starting the New Relic agent version 4.2.0.334 in "production" environment.
+[2018-07-15 14:08:29 +0000 sfg (18873)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "production" section of your newrelic.yml.
+[2018-07-15 14:08:29 +0000 sfg (18873)] INFO : Reading configuration from config/newrelic.yml (/home/sharetribe)
+[2018-07-15 14:08:29 +0000 sfg (18873)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2018-07-15 14:08:29 +0000 sfg (18873)] INFO : Environment: production
+[2018-07-15 14:08:29 +0000 sfg (18873)] INFO : Dispatcher: webrick
+[2018-07-15 14:08:29 +0000 sfg (18873)] INFO : Application: Sharetribe
+[2018-07-15 14:08:29 +0000 sfg (18873)] INFO : NewRelic::Agent::Samplers::DelayedJobSampler not available: No DJ worker present. Skipping DJ queue sampler
+[2018-07-15 14:08:29 +0000 sfg (18873)] INFO : Installing Memcache instrumentation for dalli gem
+[2018-07-15 14:08:29 +0000 sfg (18873)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-07-15 14:08:29 +0000 sfg (18873)] INFO : Installing Redis Instrumentation
+[2018-07-15 14:08:29 +0000 sfg (18873)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-07-15 14:08:29 +0000 sfg (18873)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-07-15 14:08:29 +0000 sfg (18873)] INFO : Installing ActiveJob instrumentation
+[2018-07-15 14:08:29 +0000 sfg (18873)] INFO : Installing Net instrumentation
+[2018-07-15 14:08:29 +0000 sfg (18873)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-07-15 14:08:29 +0000 sfg (18873)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[2018-07-15 14:08:29 +0000 sfg (18873)] INFO : Installing Rails 5 Controller instrumentation
+[2018-07-15 14:08:29 +0000 sfg (18873)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-07-15 14:08:29 +0000 sfg (18873)] INFO : Installing Rails 5 view instrumentation
+[2018-07-15 14:08:29 +0000 sfg (18873)] INFO : Finished instrumentation
+[2018-07-15 14:08:30 +0000 sfg (18873)] INFO : Reporting to: https://rpm.newrelic.com/accounts/21154/applications/854556
+[2018-07-15 14:11:47 +0000 sfg (18873)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-07-15 16:13:39 +0000 sfg (23419)] INFO : Starting the New Relic agent version 4.2.0.334 in "production" environment.
+[2018-07-15 16:13:39 +0000 sfg (23419)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "production" section of your newrelic.yml.
+[2018-07-15 16:13:39 +0000 sfg (23419)] INFO : Reading configuration from config/newrelic.yml (/home/sharetribe)
+[2018-07-15 16:13:39 +0000 sfg (23419)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2018-07-15 16:13:39 +0000 sfg (23419)] INFO : Environment: production
+[2018-07-15 16:13:39 +0000 sfg (23419)] INFO : No known dispatcher detected.
+[2018-07-15 16:13:39 +0000 sfg (23419)] INFO : Application: Sharetribe
+[2018-07-15 16:13:39 +0000 sfg (23419)] INFO : NewRelic::Agent::Samplers::DelayedJobSampler not available: No DJ worker present. Skipping DJ queue sampler
+[2018-07-15 16:13:39 +0000 sfg (23419)] INFO : Installing Memcache instrumentation for dalli gem
+[2018-07-15 16:13:39 +0000 sfg (23419)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-07-15 16:13:39 +0000 sfg (23419)] INFO : Installing Redis Instrumentation
+[2018-07-15 16:13:39 +0000 sfg (23419)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-07-15 16:13:39 +0000 sfg (23419)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-07-15 16:13:39 +0000 sfg (23419)] INFO : Installing ActiveJob instrumentation
+[2018-07-15 16:13:39 +0000 sfg (23419)] INFO : Installing Net instrumentation
+[2018-07-15 16:13:39 +0000 sfg (23419)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-07-15 16:13:39 +0000 sfg (23419)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[2018-07-15 16:13:39 +0000 sfg (23419)] INFO : Installing Rails 5 Controller instrumentation
+[2018-07-15 16:13:39 +0000 sfg (23419)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-07-15 16:13:39 +0000 sfg (23419)] INFO : Installing Rails 5 view instrumentation
+[2018-07-15 16:13:39 +0000 sfg (23419)] INFO : Finished instrumentation
+[2018-07-15 16:13:39 +0000 sfg (23419)] INFO : Reporting to: https://rpm.newrelic.com/accounts/21154/applications/854556
+[2018-07-15 16:13:39 +0000 sfg (23419)] INFO : Starting Agent shutdown
+[2018-07-15 16:16:17 +0000 sfg (23538)] INFO : Starting the New Relic agent version 4.2.0.334 in "production" environment.
+[2018-07-15 16:16:17 +0000 sfg (23538)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "production" section of your newrelic.yml.
+[2018-07-15 16:16:17 +0000 sfg (23538)] INFO : Reading configuration from config/newrelic.yml (/home/sharetribe)
+[2018-07-15 16:16:17 +0000 sfg (23538)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2018-07-15 16:16:17 +0000 sfg (23538)] INFO : Environment: production
+[2018-07-15 16:16:17 +0000 sfg (23538)] INFO : No known dispatcher detected.
+[2018-07-15 16:16:17 +0000 sfg (23538)] INFO : Application: Sharetribe
+[2018-07-15 16:16:17 +0000 sfg (23538)] INFO : NewRelic::Agent::Samplers::DelayedJobSampler not available: No DJ worker present. Skipping DJ queue sampler
+[2018-07-15 16:16:17 +0000 sfg (23538)] INFO : Installing Memcache instrumentation for dalli gem
+[2018-07-15 16:16:17 +0000 sfg (23538)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-07-15 16:16:17 +0000 sfg (23538)] INFO : Installing Redis Instrumentation
+[2018-07-15 16:16:17 +0000 sfg (23538)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-07-15 16:16:17 +0000 sfg (23538)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-07-15 16:16:17 +0000 sfg (23538)] INFO : Installing ActiveJob instrumentation
+[2018-07-15 16:16:17 +0000 sfg (23538)] INFO : Installing Net instrumentation
+[2018-07-15 16:16:17 +0000 sfg (23538)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-07-15 16:16:17 +0000 sfg (23538)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[2018-07-15 16:16:17 +0000 sfg (23538)] INFO : Installing Rails 5 Controller instrumentation
+[2018-07-15 16:16:17 +0000 sfg (23538)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-07-15 16:16:17 +0000 sfg (23538)] INFO : Installing Rails 5 view instrumentation
+[2018-07-15 16:16:17 +0000 sfg (23538)] INFO : Finished instrumentation
+[2018-07-15 16:16:18 +0000 sfg (23538)] INFO : Reporting to: https://rpm.newrelic.com/accounts/21154/applications/854556
+[2018-07-15 16:16:18 +0000 sfg (23538)] INFO : Starting Agent shutdown
+[2018-07-15 16:16:28 +0000 sfg (23567)] INFO : Starting the New Relic agent version 4.2.0.334 in "production" environment.
+[2018-07-15 16:16:28 +0000 sfg (23567)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "production" section of your newrelic.yml.
+[2018-07-15 16:16:28 +0000 sfg (23567)] INFO : Reading configuration from config/newrelic.yml (/home/sharetribe)
+[2018-07-15 16:16:28 +0000 sfg (23567)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2018-07-15 16:16:28 +0000 sfg (23567)] INFO : Environment: production
+[2018-07-15 16:16:28 +0000 sfg (23567)] INFO : No known dispatcher detected.
+[2018-07-15 16:16:28 +0000 sfg (23567)] INFO : Application: Sharetribe
+[2018-07-15 16:16:28 +0000 sfg (23567)] INFO : NewRelic::Agent::Samplers::DelayedJobSampler not available: No DJ worker present. Skipping DJ queue sampler
+[2018-07-15 16:16:28 +0000 sfg (23567)] INFO : Installing Memcache instrumentation for dalli gem
+[2018-07-15 16:16:28 +0000 sfg (23567)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-07-15 16:16:28 +0000 sfg (23567)] INFO : Installing Redis Instrumentation
+[2018-07-15 16:16:28 +0000 sfg (23567)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-07-15 16:16:28 +0000 sfg (23567)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-07-15 16:16:28 +0000 sfg (23567)] INFO : Installing ActiveJob instrumentation
+[2018-07-15 16:16:28 +0000 sfg (23567)] INFO : Installing Net instrumentation
+[2018-07-15 16:16:28 +0000 sfg (23567)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-07-15 16:16:28 +0000 sfg (23567)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[2018-07-15 16:16:28 +0000 sfg (23567)] INFO : Installing Rails 5 Controller instrumentation
+[2018-07-15 16:16:28 +0000 sfg (23567)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-07-15 16:16:28 +0000 sfg (23567)] INFO : Installing Rails 5 view instrumentation
+[2018-07-15 16:16:28 +0000 sfg (23567)] INFO : Finished instrumentation
+[2018-07-15 16:16:29 +0000 sfg (23567)] INFO : Reporting to: https://rpm.newrelic.com/accounts/21154/applications/854556
+[2018-07-15 16:16:29 +0000 sfg (23567)] INFO : Starting Agent shutdown
+[2018-07-15 16:17:01 +0000 sfg (23618)] INFO : Starting the New Relic agent version 4.2.0.334 in "production" environment.
+[2018-07-15 16:17:01 +0000 sfg (23618)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "production" section of your newrelic.yml.
+[2018-07-15 16:17:01 +0000 sfg (23618)] INFO : Reading configuration from config/newrelic.yml (/home/sharetribe)
+[2018-07-15 16:17:01 +0000 sfg (23618)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2018-07-15 16:17:01 +0000 sfg (23618)] INFO : Installing Memcache instrumentation for dalli gem
+[2018-07-15 16:17:01 +0000 sfg (23618)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-07-15 16:17:01 +0000 sfg (23618)] INFO : Installing Redis Instrumentation
+[2018-07-15 16:17:01 +0000 sfg (23618)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-07-15 16:17:01 +0000 sfg (23618)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-07-15 16:17:01 +0000 sfg (23618)] INFO : Installing ActiveJob instrumentation
+[2018-07-15 16:17:01 +0000 sfg (23618)] INFO : Installing Net instrumentation
+[2018-07-15 16:17:01 +0000 sfg (23618)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-07-15 16:17:01 +0000 sfg (23618)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[2018-07-15 16:17:01 +0000 sfg (23618)] INFO : Installing Rails 5 Controller instrumentation
+[2018-07-15 16:17:01 +0000 sfg (23618)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-07-15 16:17:01 +0000 sfg (23618)] INFO : Installing Rails 5 view instrumentation
+[2018-07-15 16:17:01 +0000 sfg (23618)] INFO : Finished instrumentation
+[2018-07-15 16:17:02 +0000 sfg (23618)] INFO : Installing DelayedJob instrumentation [part 2/2]
+[2018-07-15 16:17:02 +0000 sfg (23618)] INFO : Starting the New Relic agent version 4.2.0.334 in "production" environment.
+[2018-07-15 16:17:02 +0000 sfg (23618)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "production" section of your newrelic.yml.
+[2018-07-15 16:17:02 +0000 sfg (23618)] INFO : Reading configuration from config/newrelic.yml (/home/sharetribe)
+[2018-07-15 16:17:02 +0000 sfg (23618)] INFO : Environment: production
+[2018-07-15 16:17:02 +0000 sfg (23618)] INFO : Dispatcher: delayed_job
+[2018-07-15 16:17:02 +0000 sfg (23618)] INFO : Application: Sharetribe
+[2018-07-15 16:17:05 +0000 sfg (23618)] INFO : Reporting to: https://rpm.newrelic.com/accounts/21154/applications/854556
+[2018-07-15 16:18:11 +0000 sfg (23618)] WARN : Did not find a Delayed::Job class responding to invoke_job, aborting DJ instrumentation
+[2018-07-15 16:35:50 +0000 sfg (25214)] INFO : Starting the New Relic agent version 4.2.0.334 in "production" environment.
+[2018-07-15 16:35:50 +0000 sfg (25214)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "production" section of your newrelic.yml.
+[2018-07-15 16:35:50 +0000 sfg (25214)] INFO : Reading configuration from config/newrelic.yml (/home/sharetribe)
+[2018-07-15 16:35:50 +0000 sfg (25214)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2018-07-15 16:35:50 +0000 sfg (25214)] INFO : Installing Memcache instrumentation for dalli gem
+[2018-07-15 16:35:50 +0000 sfg (25214)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-07-15 16:35:50 +0000 sfg (25214)] INFO : Installing Redis Instrumentation
+[2018-07-15 16:35:50 +0000 sfg (25214)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-07-15 16:35:50 +0000 sfg (25214)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-07-15 16:35:50 +0000 sfg (25214)] INFO : Installing ActiveJob instrumentation
+[2018-07-15 16:35:50 +0000 sfg (25214)] INFO : Installing Net instrumentation
+[2018-07-15 16:35:50 +0000 sfg (25214)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-07-15 16:35:50 +0000 sfg (25214)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[2018-07-15 16:35:50 +0000 sfg (25214)] INFO : Installing Rails 5 Controller instrumentation
+[2018-07-15 16:35:50 +0000 sfg (25214)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-07-15 16:35:50 +0000 sfg (25214)] INFO : Installing Rails 5 view instrumentation
+[2018-07-15 16:35:50 +0000 sfg (25214)] INFO : Finished instrumentation
+[2018-07-15 16:35:51 +0000 sfg (25214)] INFO : Installing DelayedJob instrumentation [part 2/2]
+[2018-07-15 16:35:51 +0000 sfg (25214)] INFO : Starting the New Relic agent version 4.2.0.334 in "production" environment.
+[2018-07-15 16:35:51 +0000 sfg (25214)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "production" section of your newrelic.yml.
+[2018-07-15 16:35:51 +0000 sfg (25214)] INFO : Reading configuration from config/newrelic.yml (/home/sharetribe)
+[2018-07-15 16:35:51 +0000 sfg (25214)] INFO : Environment: production
+[2018-07-15 16:35:51 +0000 sfg (25214)] INFO : Dispatcher: delayed_job
+[2018-07-15 16:35:51 +0000 sfg (25214)] INFO : Application: Sharetribe
+[2018-07-15 16:35:54 +0000 sfg (25214)] INFO : Reporting to: https://rpm.newrelic.com/accounts/21154/applications/854556
+[2018-07-15 16:37:04 +0000 sfg (25214)] WARN : Did not find a Delayed::Job class responding to invoke_job, aborting DJ instrumentation
+[2018-07-15 16:37:09 +0000 sfg (25214)] INFO : Starting Agent shutdown
+[2018-07-15 16:37:43 +0000 sfg (25317)] INFO : Starting the New Relic agent version 4.2.0.334 in "production" environment.
+[2018-07-15 16:37:43 +0000 sfg (25317)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "production" section of your newrelic.yml.
+[2018-07-15 16:37:43 +0000 sfg (25317)] INFO : Reading configuration from config/newrelic.yml (/home/sharetribe)
+[2018-07-15 16:37:43 +0000 sfg (25317)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2018-07-15 16:37:43 +0000 sfg (25317)] INFO : Installing Memcache instrumentation for dalli gem
+[2018-07-15 16:37:43 +0000 sfg (25317)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-07-15 16:37:43 +0000 sfg (25317)] INFO : Installing Redis Instrumentation
+[2018-07-15 16:37:43 +0000 sfg (25317)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-07-15 16:37:43 +0000 sfg (25317)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-07-15 16:37:43 +0000 sfg (25317)] INFO : Installing ActiveJob instrumentation
+[2018-07-15 16:37:43 +0000 sfg (25317)] INFO : Installing Net instrumentation
+[2018-07-15 16:37:43 +0000 sfg (25317)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-07-15 16:37:43 +0000 sfg (25317)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[2018-07-15 16:37:43 +0000 sfg (25317)] INFO : Installing Rails 5 Controller instrumentation
+[2018-07-15 16:37:43 +0000 sfg (25317)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-07-15 16:37:43 +0000 sfg (25317)] INFO : Installing Rails 5 view instrumentation
+[2018-07-15 16:37:43 +0000 sfg (25317)] INFO : Finished instrumentation
+[2018-07-15 16:37:43 +0000 sfg (25317)] INFO : Installing DelayedJob instrumentation [part 2/2]
+[2018-07-15 16:37:43 +0000 sfg (25317)] INFO : Starting the New Relic agent version 4.2.0.334 in "production" environment.
+[2018-07-15 16:37:43 +0000 sfg (25317)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "production" section of your newrelic.yml.
+[2018-07-15 16:37:43 +0000 sfg (25317)] INFO : Reading configuration from config/newrelic.yml (/home/sharetribe)
+[2018-07-15 16:37:43 +0000 sfg (25317)] INFO : Environment: production
+[2018-07-15 16:37:43 +0000 sfg (25317)] INFO : Dispatcher: delayed_job
+[2018-07-15 16:37:43 +0000 sfg (25317)] INFO : Application: Sharetribe
+[2018-07-15 16:37:47 +0000 sfg (25317)] INFO : Reporting to: https://rpm.newrelic.com/accounts/21154/applications/854556
+[2018-07-15 16:39:26 +0000 sfg (25317)] WARN : Did not find a Delayed::Job class responding to invoke_job, aborting DJ instrumentation
+[2018-07-15 16:39:31 +0000 sfg (25317)] INFO : Starting Agent shutdown
+[2018-07-15 16:40:25 +0000 sfg (25466)] INFO : Starting the New Relic agent version 4.2.0.334 in "production" environment.
+[2018-07-15 16:40:25 +0000 sfg (25466)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "production" section of your newrelic.yml.
+[2018-07-15 16:40:25 +0000 sfg (25466)] INFO : Reading configuration from config/newrelic.yml (/home/sharetribe)
+[2018-07-15 16:40:25 +0000 sfg (25466)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2018-07-15 16:40:25 +0000 sfg (25466)] INFO : Installing Memcache instrumentation for dalli gem
+[2018-07-15 16:40:25 +0000 sfg (25466)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-07-15 16:40:25 +0000 sfg (25466)] INFO : Installing Redis Instrumentation
+[2018-07-15 16:40:25 +0000 sfg (25466)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-07-15 16:40:25 +0000 sfg (25466)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-07-15 16:40:25 +0000 sfg (25466)] INFO : Installing ActiveJob instrumentation
+[2018-07-15 16:40:25 +0000 sfg (25466)] INFO : Installing Net instrumentation
+[2018-07-15 16:40:25 +0000 sfg (25466)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-07-15 16:40:25 +0000 sfg (25466)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[2018-07-15 16:40:25 +0000 sfg (25466)] INFO : Installing Rails 5 Controller instrumentation
+[2018-07-15 16:40:25 +0000 sfg (25466)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-07-15 16:40:25 +0000 sfg (25466)] INFO : Installing Rails 5 view instrumentation
+[2018-07-15 16:40:25 +0000 sfg (25466)] INFO : Finished instrumentation
+[2018-07-15 16:40:26 +0000 sfg (25466)] INFO : Installing DelayedJob instrumentation [part 2/2]
+[2018-07-15 16:40:26 +0000 sfg (25466)] INFO : Starting the New Relic agent version 4.2.0.334 in "production" environment.
+[2018-07-15 16:40:26 +0000 sfg (25466)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "production" section of your newrelic.yml.
+[2018-07-15 16:40:26 +0000 sfg (25466)] INFO : Reading configuration from config/newrelic.yml (/home/sharetribe)
+[2018-07-15 16:40:26 +0000 sfg (25466)] INFO : Environment: production
+[2018-07-15 16:40:26 +0000 sfg (25466)] INFO : Dispatcher: delayed_job
+[2018-07-15 16:40:26 +0000 sfg (25466)] INFO : Application: Sharetribe
+[2018-07-15 16:40:29 +0000 sfg (25466)] INFO : Reporting to: https://rpm.newrelic.com/accounts/21154/applications/854556
+[2018-07-15 16:41:49 +0000 sfg (25466)] WARN : Did not find a Delayed::Job class responding to invoke_job, aborting DJ instrumentation
+[2018-07-15 16:41:54 +0000 sfg (25466)] INFO : Starting Agent shutdown
+[2018-07-15 16:47:22 +0000 sfg (25783)] INFO : Starting the New Relic agent version 4.2.0.334 in "production" environment.
+[2018-07-15 16:47:22 +0000 sfg (25783)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "production" section of your newrelic.yml.
+[2018-07-15 16:47:22 +0000 sfg (25783)] INFO : Reading configuration from config/newrelic.yml (/home/sharetribe)
+[2018-07-15 16:47:22 +0000 sfg (25783)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2018-07-15 16:47:22 +0000 sfg (25783)] INFO : Installing Memcache instrumentation for dalli gem
+[2018-07-15 16:47:22 +0000 sfg (25783)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-07-15 16:47:22 +0000 sfg (25783)] INFO : Installing Redis Instrumentation
+[2018-07-15 16:47:22 +0000 sfg (25783)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-07-15 16:47:22 +0000 sfg (25783)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-07-15 16:47:22 +0000 sfg (25783)] INFO : Installing ActiveJob instrumentation
+[2018-07-15 16:47:22 +0000 sfg (25783)] INFO : Installing Net instrumentation
+[2018-07-15 16:47:22 +0000 sfg (25783)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-07-15 16:47:22 +0000 sfg (25783)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[2018-07-15 16:47:22 +0000 sfg (25783)] INFO : Installing Rails 5 Controller instrumentation
+[2018-07-15 16:47:22 +0000 sfg (25783)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-07-15 16:47:22 +0000 sfg (25783)] INFO : Installing Rails 5 view instrumentation
+[2018-07-15 16:47:22 +0000 sfg (25783)] INFO : Finished instrumentation
+[2018-07-15 16:47:22 +0000 sfg (25783)] INFO : Installing DelayedJob instrumentation [part 2/2]
+[2018-07-15 16:47:22 +0000 sfg (25783)] INFO : Starting the New Relic agent version 4.2.0.334 in "production" environment.
+[2018-07-15 16:47:22 +0000 sfg (25783)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "production" section of your newrelic.yml.
+[2018-07-15 16:47:22 +0000 sfg (25783)] INFO : Reading configuration from config/newrelic.yml (/home/sharetribe)
+[2018-07-15 16:47:22 +0000 sfg (25783)] INFO : Environment: production
+[2018-07-15 16:47:22 +0000 sfg (25783)] INFO : Dispatcher: delayed_job
+[2018-07-15 16:47:22 +0000 sfg (25783)] INFO : Application: Sharetribe
+[2018-07-15 16:47:25 +0000 sfg (25783)] INFO : Reporting to: https://rpm.newrelic.com/accounts/21154/applications/854556
+[2018-07-15 16:51:30 +0000 sfg (25783)] WARN : Did not find a Delayed::Job class responding to invoke_job, aborting DJ instrumentation
+[2018-07-15 17:11:41 +0000 sfg (26785)] INFO : Starting the New Relic agent version 4.2.0.334 in "production" environment.
+[2018-07-15 17:11:41 +0000 sfg (26785)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "production" section of your newrelic.yml.
+[2018-07-15 17:11:41 +0000 sfg (26785)] INFO : Reading configuration from config/newrelic.yml (/home/sharetribe)
+[2018-07-15 17:11:41 +0000 sfg (26785)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2018-07-15 17:11:41 +0000 sfg (26785)] INFO : Installing Memcache instrumentation for dalli gem
+[2018-07-15 17:11:41 +0000 sfg (26785)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-07-15 17:11:41 +0000 sfg (26785)] INFO : Installing Redis Instrumentation
+[2018-07-15 17:11:41 +0000 sfg (26785)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-07-15 17:11:41 +0000 sfg (26785)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-07-15 17:11:41 +0000 sfg (26785)] INFO : Installing ActiveJob instrumentation
+[2018-07-15 17:11:41 +0000 sfg (26785)] INFO : Installing Net instrumentation
+[2018-07-15 17:11:41 +0000 sfg (26785)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-07-15 17:11:41 +0000 sfg (26785)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[2018-07-15 17:11:41 +0000 sfg (26785)] INFO : Installing Rails 5 Controller instrumentation
+[2018-07-15 17:11:41 +0000 sfg (26785)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-07-15 17:11:41 +0000 sfg (26785)] INFO : Installing Rails 5 view instrumentation
+[2018-07-15 17:11:41 +0000 sfg (26785)] INFO : Finished instrumentation
+[2018-07-15 17:11:42 +0000 sfg (26785)] INFO : Installing DelayedJob instrumentation [part 2/2]
+[2018-07-15 17:11:42 +0000 sfg (26785)] INFO : Starting the New Relic agent version 4.2.0.334 in "production" environment.
+[2018-07-15 17:11:42 +0000 sfg (26785)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "production" section of your newrelic.yml.
+[2018-07-15 17:11:42 +0000 sfg (26785)] INFO : Reading configuration from config/newrelic.yml (/home/sharetribe)
+[2018-07-15 17:11:42 +0000 sfg (26785)] INFO : Environment: production
+[2018-07-15 17:11:42 +0000 sfg (26785)] INFO : Dispatcher: delayed_job
+[2018-07-15 17:11:42 +0000 sfg (26785)] INFO : Application: Sharetribe
+[2018-07-15 17:11:45 +0000 sfg (26785)] INFO : Reporting to: https://rpm.newrelic.com/accounts/21154/applications/854556
+[2018-07-15 17:13:36 +0000 sfg (26873)] INFO : Starting the New Relic agent version 4.2.0.334 in "production" environment.
+[2018-07-15 17:13:36 +0000 sfg (26873)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "production" section of your newrelic.yml.
+[2018-07-15 17:13:36 +0000 sfg (26873)] INFO : Reading configuration from config/newrelic.yml (/home/sharetribe)
+[2018-07-15 17:13:36 +0000 sfg (26873)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2018-07-15 17:13:36 +0000 sfg (26873)] INFO : Installing Memcache instrumentation for dalli gem
+[2018-07-15 17:13:36 +0000 sfg (26873)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-07-15 17:13:36 +0000 sfg (26873)] INFO : Installing Redis Instrumentation
+[2018-07-15 17:13:36 +0000 sfg (26873)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-07-15 17:13:36 +0000 sfg (26873)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-07-15 17:13:36 +0000 sfg (26873)] INFO : Installing ActiveJob instrumentation
+[2018-07-15 17:13:36 +0000 sfg (26873)] INFO : Installing Net instrumentation
+[2018-07-15 17:13:36 +0000 sfg (26873)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-07-15 17:13:36 +0000 sfg (26873)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[2018-07-15 17:13:36 +0000 sfg (26873)] INFO : Installing Rails 5 Controller instrumentation
+[2018-07-15 17:13:36 +0000 sfg (26873)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-07-15 17:13:36 +0000 sfg (26873)] INFO : Installing Rails 5 view instrumentation
+[2018-07-15 17:13:36 +0000 sfg (26873)] INFO : Finished instrumentation
+[2018-07-15 17:13:36 +0000 sfg (26873)] INFO : Installing DelayedJob instrumentation [part 2/2]
+[2018-07-15 17:13:36 +0000 sfg (26873)] INFO : Starting the New Relic agent version 4.2.0.334 in "production" environment.
+[2018-07-15 17:13:36 +0000 sfg (26873)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "production" section of your newrelic.yml.
+[2018-07-15 17:13:36 +0000 sfg (26873)] INFO : Reading configuration from config/newrelic.yml (/home/sharetribe)
+[2018-07-15 17:13:36 +0000 sfg (26873)] INFO : Environment: production
+[2018-07-15 17:13:36 +0000 sfg (26873)] INFO : Dispatcher: delayed_job
+[2018-07-15 17:13:36 +0000 sfg (26873)] INFO : Application: Sharetribe
+[2018-07-15 17:13:39 +0000 sfg (26873)] INFO : Reporting to: https://rpm.newrelic.com/accounts/21154/applications/854556
+[2018-07-15 17:15:19 +0000 sfg (26873)] WARN : Did not find a Delayed::Job class responding to invoke_job, aborting DJ instrumentation
+[2018-07-15 17:26:49 +0000 sfg (23618)] INFO : Starting Agent shutdown
+[2018-07-15 17:57:55 +0000 sfg (2494)] INFO : Starting the New Relic agent version 4.2.0.334 in "production" environment.
+[2018-07-15 17:57:55 +0000 sfg (2494)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "production" section of your newrelic.yml.
+[2018-07-15 17:57:55 +0000 sfg (2494)] INFO : Reading configuration from config/newrelic.yml (/home/sharetribe)
+[2018-07-15 17:57:55 +0000 sfg (2494)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2018-07-15 17:57:55 +0000 sfg (2494)] INFO : Installing Memcache instrumentation for dalli gem
+[2018-07-15 17:57:55 +0000 sfg (2494)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-07-15 17:57:55 +0000 sfg (2494)] INFO : Installing Redis Instrumentation
+[2018-07-15 17:57:55 +0000 sfg (2494)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-07-15 17:57:55 +0000 sfg (2494)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-07-15 17:57:55 +0000 sfg (2494)] INFO : Installing ActiveJob instrumentation
+[2018-07-15 17:57:55 +0000 sfg (2494)] INFO : Installing Net instrumentation
+[2018-07-15 17:57:55 +0000 sfg (2494)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-07-15 17:57:55 +0000 sfg (2494)] INFO : Installing DelayedJob instrumentation [part 1/2]
+[2018-07-15 17:57:55 +0000 sfg (2494)] INFO : Installing Rails 5 Controller instrumentation
+[2018-07-15 17:57:55 +0000 sfg (2494)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-07-15 17:57:55 +0000 sfg (2494)] INFO : Installing Rails 5 view instrumentation
+[2018-07-15 17:57:55 +0000 sfg (2494)] INFO : Finished instrumentation
+[2018-07-15 17:57:56 +0000 sfg (2494)] INFO : Installing DelayedJob instrumentation [part 2/2]
+[2018-07-15 17:57:56 +0000 sfg (2494)] INFO : Starting the New Relic agent version 4.2.0.334 in "production" environment.
+[2018-07-15 17:57:56 +0000 sfg (2494)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "production" section of your newrelic.yml.
+[2018-07-15 17:57:56 +0000 sfg (2494)] INFO : Reading configuration from config/newrelic.yml (/home/sharetribe)
+[2018-07-15 17:57:56 +0000 sfg (2494)] INFO : Environment: production
+[2018-07-15 17:57:56 +0000 sfg (2494)] INFO : Dispatcher: delayed_job
+[2018-07-15 17:57:56 +0000 sfg (2494)] INFO : Application: Sharetribe
+[2018-07-15 17:57:59 +0000 sfg (2494)] INFO : Reporting to: https://rpm.newrelic.com/accounts/21154/applications/854556
+[2018-07-15 18:05:29 +0000 sfg (2494)] WARN : Did not find a Delayed::Job class responding to invoke_job, aborting DJ instrumentation
+[2018-07-15 18:05:29 +0000 sfg (2494)] INFO : Starting Agent shutdown
+[2018-07-15 18:05:29 +0000 sfg (26873)] INFO : Starting Agent shutdown
+[2018-07-15 18:05:30 +0000 sfg (2494)] INFO : Unable to send metric_data data, will try again later. Error: 
+[2018-07-15 18:05:30 +0000 sfg (2494)] INFO : JSON::ParserError: 765: unexpected token at 'HTTP/1.1 200 OK
+Co'
+[2018-07-15 18:05:30 +0000 sfg (2494)] INFO : Error during check_for_and_handle_agent_commands, will retry later: 
+[2018-07-15 18:05:30 +0000 sfg (2494)] INFO : Net::HTTPBadResponse: wrong status line: "ntent-Type: text/json; charset=utf-8"
+[2018-07-15 18:05:30 +0000 sfg (25783)] INFO : Starting Agent shutdown
+[2018-07-15 18:05:31 +0000 sfg (25783)] INFO : Unable to send metric_data data, will try again later. Error: 
+[2018-07-15 18:05:31 +0000 sfg (25783)] INFO : JSON::ParserError: 765: unexpected token at 'HTTP/1.1 200 OK
+Co'
+[2018-07-15 18:05:31 +0000 sfg (25783)] INFO : Error during check_for_and_handle_agent_commands, will retry later: 
+[2018-07-15 18:05:31 +0000 sfg (25783)] INFO : Net::HTTPBadResponse: wrong status line: "ntent-Type: text/json; charset=utf-8"

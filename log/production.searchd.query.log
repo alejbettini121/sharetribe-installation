@@ -1,0 +1,42 @@
+[Sun Jul 15 16:16:37.411 2018] 0.003 sec 0.003 sec [ext2/2/ext 0 (0,24)] [listing_core`, `listing_delta] *fd*
+[Sun Jul 15 16:16:41.999 2018] 0.000 sec 0.000 sec [ext2/2/ext 0 (0,24)] [listing_core`, `listing_delta] *zsdfsdvds*
+[Sun Jul 15 16:16:47.684 2018] 0.000 sec 0.000 sec [ext2/2/ext 0 (0,24)] [listing_core`, `listing_delta] *a123*
+[Sun Jul 15 16:34:27.184 2018] 0.006 sec 0.006 sec [ext2/3/ext 0 (0,24)] [listing_core`, `listing_delta]
+[Sun Jul 15 16:34:29.341 2018] 0.000 sec 0.000 sec [ext2/3/ext 0 (0,24)] [listing_core`, `listing_delta]
+[Sun Jul 15 16:34:31.697 2018] 0.000 sec 0.000 sec [ext2/3/ext 0 (0,24)] [listing_core`, `listing_delta]
+[Sun Jul 15 16:34:35.247 2018] 0.000 sec 0.000 sec [ext2/3/ext 0 (0,24)] [listing_core`, `listing_delta]
+[Sun Jul 15 16:37:08.364 2018] 0.002 sec 0.002 sec [ext2/3/ext 0 (0,24)] [listing_core`, `listing_delta]
+[Sun Jul 15 16:37:14.387 2018] 0.000 sec 0.000 sec [ext2/3/ext 0 (0,24)] [listing_core`, `listing_delta]
+[Sun Jul 15 16:37:18.913 2018] 0.000 sec 0.000 sec [ext2/4/ext 0 (0,24)] [listing_core`, `listing_delta]
+[Sun Jul 15 16:37:21.338 2018] 0.000 sec 0.000 sec [ext2/4/ext 0 (0,24)] [listing_core`, `listing_delta]
+[Sun Jul 15 16:37:23.916 2018] 0.000 sec 0.000 sec [ext2/3/ext 0 (0,24)] [listing_core`, `listing_delta]
+[Sun Jul 15 16:37:26.926 2018] 0.000 sec 0.000 sec [ext2/4/ext 0 (0,24)] [listing_core`, `listing_delta]
+[Sun Jul 15 16:37:29.411 2018] 0.000 sec 0.000 sec [ext2/4/ext 0 (0,24)] [listing_core`, `listing_delta]
+[Sun Jul 15 16:43:40.779 2018] 0.006 sec 0.006 sec [ext2/2/ext 0 (0,24)] [listing_core`, `listing_delta] *fdsf*
+[Sun Jul 15 16:43:43.163 2018] 0.000 sec 0.000 sec [ext2/3/ext 0 (0,24)] [listing_core`, `listing_delta] *fdsf*
+[Sun Jul 15 16:43:45.418 2018] 0.000 sec 0.000 sec [ext2/3/ext 0 (0,24)] [listing_core`, `listing_delta] *fdsf*
+[Sun Jul 15 16:43:47.464 2018] 0.000 sec 0.000 sec [ext2/3/ext 0 (0,24)] [listing_core`, `listing_delta] *fdsf*
+[Sun Jul 15 16:43:49.685 2018] 0.000 sec 0.000 sec [ext2/3/ext 0 (0,24)] [listing_core`, `listing_delta] *fdsf*
+[Sun Jul 15 16:43:51.813 2018] 0.000 sec 0.000 sec [ext2/3/ext 0 (0,24)] [listing_core`, `listing_delta] *fdsf*
+[Sun Jul 15 16:43:54.125 2018] 0.000 sec 0.000 sec [ext2/3/ext 0 (0,24)] [listing_core`, `listing_delta] *fdsf*
+[Sun Jul 15 16:48:04.003 2018] 0.000 sec 0.000 sec [ext2/3/ext 0 (0,24)] [listing_core`, `listing_delta]
+[Sun Jul 15 16:48:13.282 2018] 0.000 sec 0.000 sec [ext2/3/ext 0 (0,24)] [listing_core`, `listing_delta]
+[Sun Jul 15 17:15:28.570 2018] 0.005 sec 0.005 sec [ext2/3/ext 0 (0,24)] [listing_core`, `listing_delta]
+[Sun Jul 15 17:15:31.045 2018] 0.000 sec 0.000 sec [ext2/3/ext 0 (0,24)] [listing_core`, `listing_delta]
+[Sun Jul 15 17:15:33.311 2018] 0.000 sec 0.000 sec [ext2/3/ext 0 (0,24)] [listing_core`, `listing_delta]
+[Sun Jul 15 17:15:35.343 2018] 0.000 sec 0.000 sec [ext2/3/ext 0 (0,24)] [listing_core`, `listing_delta]
+[Sun Jul 15 17:15:39.517 2018] 0.000 sec 0.000 sec [ext2/3/ext 0 (0,24)] [listing_core`, `listing_delta]
+[Sun Jul 15 17:20:47.036 2018] 0.000 sec 0.000 sec [ext2/3/ext 0 (0,24)] [listing_core`, `listing_delta]
+[Sun Jul 15 17:55:53.146 2018] 0.011 sec 0.011 sec [ext2/2/ext 0 (0,24)] [listing_core`, `listing_delta] *віаві*
+[Sun Jul 15 17:55:55.600 2018] 0.000 sec 0.000 sec [ext2/3/ext 0 (0,24)] [listing_core`, `listing_delta] *віаві*
+[Sun Jul 15 17:55:58.657 2018] 0.000 sec 0.000 sec [ext2/2/ext 0 (0,24)] [listing_core`, `listing_delta] *віаві*
+[Sun Jul 15 17:56:00.558 2018] 0.000 sec 0.000 sec [ext2/3/ext 0 (0,24)] [listing_core`, `listing_delta] *віаві*
+[Sun Jul 15 17:56:00.886 2018] 0.000 sec 0.000 sec [ext2/3/ext 0 (0,24)] [listing_core`, `listing_delta] *віаві*
+[Sun Jul 15 17:56:26.097 2018] 0.000 sec 0.000 sec [ext2/3/ext 0 (0,24)] [listing_core`, `listing_delta] *віаві*
+[Sun Jul 15 17:57:04.814 2018] 0.000 sec 0.000 sec [ext2/3/ext 0 (0,24)] [listing_core`, `listing_delta]
+[Sun Jul 15 17:57:08.651 2018] 0.000 sec 0.000 sec [ext2/3/ext 0 (0,24)] [listing_core`, `listing_delta]
+[Sun Jul 15 23:04:55.589 2018] 0.002 sec 0.002 sec [ext2/3/ext 0 (0,24)] [listing_core`, `listing_delta]
+[Sun Jul 15 23:04:57.513 2018] 0.000 sec 0.000 sec [ext2/3/ext 0 (0,24)] [listing_core`, `listing_delta]
+[Sun Jul 15 23:04:59.075 2018] 0.000 sec 0.000 sec [ext2/3/ext 0 (0,24)] [listing_core`, `listing_delta]
+[Sun Jul 15 23:05:00.329 2018] 0.000 sec 0.000 sec [ext2/3/ext 0 (0,24)] [listing_core`, `listing_delta]
+[Sun Jul 15 23:05:01.798 2018] 0.000 sec 0.000 sec [ext2/3/ext 0 (0,24)] [listing_core`, `listing_delta]
